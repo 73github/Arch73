@@ -68,6 +68,7 @@ openbsd-netcat
 openssh
 os-prober
 p7zip
+packagekit-qt5
 papirus-icon-theme
 patch
 picom
