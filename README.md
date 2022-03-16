@@ -17,23 +17,19 @@ From initial Prompt type the following commands:
 
 ```
 pacman -Sy git
-
 ```
 
 ```
 git clone https://github.com/73github/Arch73
-
 ```
 ```
 
 cd Arch73
-
 ```
 
 ```
 
 ./archtitus.sh
-
 ```
 
 ### System Description
