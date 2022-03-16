@@ -31,7 +31,7 @@ cd Arch73
 ```
 
 ### System Description
-This is completely automated arch install of the KDE desktop environment on arch using all the packages I use on a daily basis. 
+This is completely automated install of arch linux using all the packages I use on a daily basis. 
 
 ## Troubleshooting
 
