@@ -3,8 +3,6 @@ ani-cli
 brave-bin
 bridge-utils
 dxvk-bin
-lightly-git
-lightlyshaders-git
 nerd-fonts-fira-code
 nordic-darker-standard-buttons-theme
 nordic-darker-theme
