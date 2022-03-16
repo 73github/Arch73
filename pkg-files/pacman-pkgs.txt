@@ -55,6 +55,7 @@ htop
 jdk-openjdk
 kitty
 libdvdcss
+libreoffice
 libtool
 lsof
 lutris
