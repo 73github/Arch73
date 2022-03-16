@@ -38,7 +38,6 @@ dtc
 efibootmgr
 egl-wayland
 exfat-utils
-flatpak
 flex
 fuse2
 fuse3
