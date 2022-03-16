@@ -14,5 +14,6 @@ ocs-url
 plymouth-git
 sddm-nordic-theme-git
 snapper-gui-git
+spotify-adblock
 ttf-meslo
 vde2
